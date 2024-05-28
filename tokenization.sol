@@ -1,4 +1,3 @@
-solidity
 // contracts/Tokenization.sol
 pragma solidity ^0.8.0;
 
