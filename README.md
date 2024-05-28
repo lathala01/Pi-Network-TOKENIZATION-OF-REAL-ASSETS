@@ -1,4 +1,5 @@
 # Pi-Network-TOKENIZATION-OF-REAL-ASSETS
+
 This project aims to tokenize assets using the Pi Network. It includes a Smart Contract written in Solidity, a backend using Node.js, and a frontend using HTML/CSS/JavaScript.
 
 ## Prerequisites
@@ -22,27 +23,22 @@ This project aims to tokenize assets using the Pi Network. It includes a Smart C
     sh
     node server.js
   
-
 4. Open frontend in browser:
     Open `index.html` in your preferred browser.
 
 ## Usage
-
 1. Deploy the Smart Contract in Pi Network.
 2. Connect the web interface with your Pi Network wallet.
 3. Issue tokens representing your assets.
 
 ### Project Structure
-
-sh
 tokenization-of-assets/
 ├─ backend/
-│  ├─ server.js
-│  └─ package.json
+│  └─ server.js
 ├─ contracts/
 │  └─ Tokenization.sol
 ├─ frontend/
 │  ├─ index.html
 │  ├─ style.css
 │  └─ script.js
-└─ README.md
+└─ package.json
